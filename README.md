@@ -4,14 +4,10 @@
 
 A data analytics solution designed to track gym members, subscriptions, and payments using SQL and Power BI, enabling efficient operations and data-driven decision-making.
 
----
-
 ## ⚙️ Tools
 
 * SQL (MySQL)
 * Power BI
-
----
 
 ## 🔍 Key Features
 
@@ -20,15 +16,11 @@ A data analytics solution designed to track gym members, subscriptions, and paym
 * Revenue and performance dashboards in Power BI
 * Insights to support **retention and churn reduction**
 
----
-
 ## 📊 Business Impact
 
 * Improved operational efficiency
 * Faster reporting and decision-making
 * Better visibility into membership and revenue trends
-
----
 
 ## 🔐 Data Privacy
 
